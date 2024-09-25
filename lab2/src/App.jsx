@@ -7,22 +7,14 @@ function App() {
       <h1 style={{ color: "#8a959f" }}>Resorts Life</h1>
       <div className="country">
         <Card
-<<<<<<< HEAD
           country="Indonesia"
-=======
-          country="Indonesia  "
->>>>>>> e5891ef4837b87eb0a47e568b292c701966cf12b
           name="Gili Air Hotel"
           image="src/assets/1.jpg"
           price="$589/night"
           rating="4.8 ★"
         />
         <Card
-<<<<<<< HEAD
           country="Seychelles"
-=======
-          country="Seychelles  "
->>>>>>> e5891ef4837b87eb0a47e568b292c701966cf12b
           name="Hilton Resort"
           image="src/assets/2.jpg"
           price="$692/night"
