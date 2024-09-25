@@ -16,7 +16,7 @@ function App() {
         <Card
           country="Seychelles  "
           name="Seychelles"
-          image="src/assets/1.jpg"
+          image="src/assets/2.jpg"
           price="$692/night"
           rating="4.2 ★"
         />
@@ -47,6 +47,13 @@ function App() {
           image="src/assets/6.jpg"
           price="$365/night"
           rating="3.2 ★"
+        />
+        <Card
+          country="Los Santos "
+          name="Los Santos"
+          image="src/assets/7.jpg"
+          price="$420/night"
+          rating="4.2 ★"
         />
       </div>
     </>
