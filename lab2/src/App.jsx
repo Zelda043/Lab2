@@ -8,14 +8,14 @@ function App() {
       <div className="country">
         <Card
           country="Indonesia  "
-          name="Gill Air Hotel"
+          name="Gili Air Hotel"
           image="src/assets/1.jpg"
           price="$589/night"
           rating="4.8 ★"
         />
         <Card
           country="Seychelles  "
-          name="Seychelles"
+          name="Hilton Resort"
           image="src/assets/2.jpg"
           price="$692/night"
           rating="4.2 ★"
