@@ -33,22 +33,23 @@
   }
 }
 
+body {
+  background-color: #cccccc;
+}
 .card h3 {
-  justify-content: space-around;
+  justify-content: space-evenly;
+  margin: 15px;
+  padding: 5px;
   color: #8a959f;
 }
 
 .country {
   display: flex;
+  border: 1px solid #cccccc2f;
   flex-direction: row;
   justify-content: space-evenly;
   padding: 10px;
-  border-top: 4px solid#8a959f;
 }
 image {
   height: 1000px;
-}
-
-.read-the-docs {
-  color: #888;
 }
